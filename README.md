@@ -1,6 +1,5 @@
 ## Hi everyone! Welcome to Val's GitHub Profile
-### On this page i share with my works that were done for the purpose of self-development and hobbies
-
+### Here you have the opportunity to get to know me better as a young "ml" enthusiast, having familiarize yourself with my works
 <!--
 **EuMentality/EuMentality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
