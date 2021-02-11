@@ -1,5 +1,5 @@
 # Hi everyone! Welcome to Val's GitHub Profile
-## Here you have the opportunity to know me better as a young ML enthusiast
+## Here you have the opportunity to know me better as a young ML-DA enthusiast
 ## 📫 How to reach me:
   * [Telegram](https://t.me/eu_mentality)
   * [Linkedin](https://www.linkedin.com/in/valentin-mitkinov-046174205/)
